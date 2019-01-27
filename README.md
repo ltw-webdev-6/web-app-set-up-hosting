@@ -9,13 +9,13 @@ deliverables: '1 repository'
 ## Overview
 
 1. **Inside your `web-app` repository set up Jekyll Patternbot.**
-    <br>*Here’s some resources to remind yourself:*
-    <br>· [Pattern library cheat sheet](https://learn-the-web.algonquindesign.ca/topics/pattern-library-cheat-sheet/)
-    <br>· [Pattern library set up](https://learn-the-web.algonquindesign.ca/courses/web-dev-4/pattern-library-set-up/)
+  <br>*Here’s some resources to remind yourself:*
+  <br>· [Pattern library cheat sheet](https://learn-the-web.algonquindesign.ca/topics/pattern-library-cheat-sheet/)
+  <br>· [Pattern library set up](https://learn-the-web.algonquindesign.ca/courses/web-dev-4/pattern-library-set-up/)
 
 2. **Set up hosting for you pattern library on Netlify.**
-    <br>*Here’s some resources to remind yourself:*
-    <br>· [Pattern library hosting](https://learn-the-web.algonquindesign.ca/courses/web-dev-4/pattern-library-hosting/)
+  <br>*Here’s some resources to remind yourself:*
+  <br>· [Pattern library hosting](https://learn-the-web.algonquindesign.ca/courses/web-dev-4/pattern-library-hosting/)
 
 ---
 
