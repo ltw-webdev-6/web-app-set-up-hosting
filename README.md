@@ -23,4 +23,4 @@ deliverables: '1 repository'
 
 Show teacher for marks.
 
-**But make sure to link the Netlify to your repo so the teacher can find the live website.**
+**Make sure to link the Netlify URL to your repo’s details—so the teacher can find the live website.**
