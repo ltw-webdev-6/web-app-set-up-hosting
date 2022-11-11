@@ -1,7 +1,7 @@
 ---
-summary: 'Set up your team’s web app as a pattern library with Jekyll & host it on Netlify.'
-time: '1 hour'
-deliverables: '1 repository'
+summary: "Set up your team’s web app as a pattern library with Jekyll & host it on Netlify."
+time: "1 hour"
+deliverables: "1 repository"
 ---
 
 # Web app set up & hosting
@@ -9,13 +9,13 @@ deliverables: '1 repository'
 ## Overview
 
 1. **Inside your `web-app` repository set up Jekyll Patternbot.**
-  *Here’s some resources to remind yourself:*
-  · [Pattern library cheat sheet](https://learn-the-web.algonquindesign.ca/topics/pattern-library-cheat-sheet/)
-  · [Pattern library set up](https://learn-the-web.algonquindesign.ca/courses/web-dev-4/pattern-library-set-up/)
+   _Here’s some resources to remind yourself:_
+   · [Pattern library cheat sheet](https://learntheweb.courses/topics/pattern-library-cheat-sheet/)
+   · [Pattern library set up](https://learntheweb.courses/courses/web-dev-4/pattern-library-set-up/)
 
 2. **Set up hosting for you pattern library on Netlify.**
-  *Here’s some resources to remind yourself:*
-  · [Pattern library hosting](https://learn-the-web.algonquindesign.ca/courses/web-dev-4/pattern-library-hosting/)
+   _Here’s some resources to remind yourself:_
+   · [Pattern library hosting](https://learntheweb.courses/courses/web-dev-4/pattern-library-hosting/)
 
 ---
 
